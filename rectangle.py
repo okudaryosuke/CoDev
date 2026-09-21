@@ -3,7 +3,7 @@
 width = 8
 height = 5
 
-area = width + height   # bug
+area = width * height   # bug
 
 print("Width =", width)
 print("Height =", height)
